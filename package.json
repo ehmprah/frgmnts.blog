@@ -1,0 +1,24 @@
+{
+  "name": "frgmnts.blog",
+  "version": "1.0.0",
+  "description": "Mario Kaiser's personal blog",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehmprah/frgmnts.blog.git"
+  },
+  "author": "Mario Kaiser",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ehmprah/frgmnts.blog/issues"
+  },
+  "homepage": "https://github.com/ehmprah/frgmnts.blog#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^1.0.0-alpha.47"
+  }
+}
