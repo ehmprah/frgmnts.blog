@@ -6,6 +6,17 @@ module.exports = {
   markdown: {
     anchor: { permalink: false },
   },
+  plugins: {
+    alias: {},
+    sitemap: {
+      hostname: 'https://frgmnts.blog',
+    },
+    'vuepress-plugin-rss': {
+      base_url: '/',
+      site_url: 'https://frgmnts.blog',
+      count: 20,
+    },
+  },
   themeConfig: {
     lastUpdated: true,
   },
@@ -39,7 +50,7 @@ module.exports = {
         href: '/favicon-16x16.png',
       },
     ],
-    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    ['link', { rel: 'manifest', href: 'manifest.json' }],
     ['meta', { name: 'msapplication-TileColor', content: '#fff' }],
     ['meta', { name: 'theme-color', content: '#fff' }],
     [

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,500');
+@import '~@theme/styles/normalize';
+@import '~@theme/styles/variables';
+@import '~@theme/styles/typography';
+
+.page {
+  box-sizing: border-box;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  &__content {
+    text-align: justify;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
