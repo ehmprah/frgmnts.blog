@@ -5,10 +5,10 @@
         <a type="application/rss+xml" href="/rss.xml">RSS</a>
       </li>
       <li>
-        <a href="/about.html">{{ 'About'|t }}</a>
+        <a href="/about.html">About</a>
       </li>
       <li>
-        <a href="/imprint.html">{{ 'Imprint'|t }}</a>
+        <a href="/imprint.html">Imprint</a>
       </li>
     </ul>
 

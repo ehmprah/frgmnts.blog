@@ -7,6 +7,7 @@
       <ArticleHeader v-if="type === 'post'"/>
       <Content/>
       <Share v-if="type === 'post'"/>
+      <MorePosts v-if="type === 'post'"/>
     </main>
     <header class="page__footer">
       <Footer/>
@@ -16,15 +17,16 @@
 
 <script>
 import ArticleHeader from '@theme/components/ArticleHeader.vue';
+import MorePosts from '@theme/components/MorePosts.vue';
 import Header from '@theme/components/Header.vue';
 import Footer from '@theme/components/Footer.vue';
 import Share from '@theme/components/Share.vue';
 
 export default {
-  // mounted() {
-  //   console.log(this.$site);
-  //   console.log(this.$page);
-  // },
+  mounted() {
+    console.log(this.$site);
+    console.log(this.$page);
+  },
   computed: {
     type: function() {
       if (this.$page.frontmatter.type) {
@@ -35,6 +37,7 @@ export default {
   },
   components: {
     ArticleHeader,
+    MorePosts,
     Header,
     Footer,
     Share,

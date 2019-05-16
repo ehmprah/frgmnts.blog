@@ -67,7 +67,6 @@
 <script>
 export default {
   computed: {
-    // TODO either hide share comp on pages and front, or create article layout with it
     url: function() {
       return `https://frgmnts.blog${this.$page.path}`;
     },
@@ -95,7 +94,9 @@ export default {
     transition: all 0.3s;
     width: 40px;
     height: 40px;
+    transition: all 0.3s;
     &:hover {
+      transform: scale(1.2);
       border-color: transparent;
     }
     svg {
