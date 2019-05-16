@@ -1,9 +1,10 @@
 ---
 type: post
-title: 'The TV That Made Me'
+title: 'List: The TV That Made Me'
 author: Mario Kaiser
-tags: ['Watch This', 'Made Me']
+tags: ['List', 'Watch This']
 published: true
+alias: f/the-tv-that-made-me
 ---
 
 <!-- TODO: write short paragraph about each! -->
