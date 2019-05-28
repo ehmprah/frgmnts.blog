@@ -5,6 +5,9 @@
         <a type="application/rss+xml" href="/rss.xml">RSS</a>
       </li>
       <li>
+        <a type="application/rss+xml" href="/newsletter.html">Subscribe</a>
+      </li>
+      <li>
         <a type="application/rss+xml" href="/sitemap.xml">Sitemap</a>
       </li>
       <li>

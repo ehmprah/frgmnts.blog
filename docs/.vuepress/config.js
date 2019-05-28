@@ -21,6 +21,10 @@ module.exports = {
     lastUpdated: true,
   },
   chainWebpack: (config, isServer) => {
+    config.resolve.alias.set(
+      '@components',
+      path.resolve(__dirname, './components'),
+    );
     config.resolve.alias.set('@theme', path.resolve(__dirname, './theme'));
   },
   head: [

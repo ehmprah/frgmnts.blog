@@ -20,6 +20,7 @@ export default {
           });
         }
       });
+      console.log(tagList);
       return Object.keys(tagList)
         .sort(() => 0.5 - Math.random())
         .slice(0, 5);

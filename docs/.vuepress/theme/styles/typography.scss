@@ -52,3 +52,16 @@ ul {
 .text-center {
   text-align: center;
 }
+
+.tldr {
+  margin-bottom: 2em;
+  padding: 0.75em 1em;
+  border: 1px dashed $border-color;
+  &:before {
+    content: 'tl;dr';
+    color: $border-color;
+    font-weight: $font-weight-bold;
+    margin-right: 1em;
+    transform: rotate(-90deg) translate(-1em);
+  }
+}
