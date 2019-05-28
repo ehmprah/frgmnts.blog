@@ -44,17 +44,24 @@ export default {
 
 .article-header {
   text-align: center;
+
   &__title {
     text-transform: uppercase;
   }
+
   &__author,
   &__updated,
   &__tags {
     font-weight: $font-weight-bold;
   }
+
   &__details {
     margin-bottom: 1.5em;
     line-height: 1.5em;
+  }
+
+  &__tags * {
+    color: $color-text-dark;
   }
 }
 </style>

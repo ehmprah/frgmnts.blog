@@ -1,12 +1,14 @@
 <template>
   <section class="teaser">
     <Tags :tags="page.frontmatter.tags"/>
-    <router-link :to="page.path">{{ page.frontmatter.title }}</router-link>
+    <router-link :to="page.path" class="teaser__link">{{ page.frontmatter.title }}</router-link>
   </section>
 </template>
 
 
 <script>
+import Tags from '@theme/components/Tags.vue';
+
 export default {
   name: 'Teaser',
   props: {
@@ -15,22 +17,33 @@ export default {
       required: true,
     },
   },
+  components: {
+    Tags,
+  },
 };
 </script>
 
 
 <style lang="scss">
+@import '~@theme/styles/variables';
+
 .teaser {
-  ul.tags {
-    padding: 0;
-    li a {
-      font-size: 0.8em;
-      color: #999;
-    }
+  text-transform: uppercase;
+  font-weight: $font-weight-bold;
+  margin: 1.5em 0 0 0;
+  padding: 1.5em 1.5em 0 1.5em;
+  border-top: 1px solid $border-color;
+  text-align: center;
+  &__link {
+    font-size: 1.2em;
   }
-  a[rel='bookmark'] {
-    text-transform: uppercase;
-    font-weight: bold;
+  &:first-child {
+    border-top: none;
+    padding-top: 0;
+  }
+  .tags {
+    display: block;
+    padding: 0;
   }
 }
 </style>

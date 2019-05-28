@@ -3,7 +3,7 @@ type: post
 title: 'Thrust Issues'
 author: Mario Kaiser
 tags: ['Fiction']
-published: true
+published: false
 alias: f/thrust-issues
 ---
 

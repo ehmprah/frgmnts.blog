@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  title: 'frgmnts.blog',
+  title: 'FRGMNTS',
   description: 'Mario "ehmprah" Kaiser\'s personal blog',
   markdown: {
     anchor: { permalink: false },

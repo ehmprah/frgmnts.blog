@@ -1,47 +1,45 @@
 <template>
   <ul class="tags">
-    <li v-for="tag in tags">
-      <!-- TODO: implement tag pages! -->
-      {{ tag }}
+    <li v-for="tag in tags" class="tags__tag">
+      <Tag class="tags__tag-link" :tag="tag"/>
     </li>
   </ul>
 </template>
 
 <script>
+import Tag from '@theme/components/Tag.vue';
+
 export default {
   props: ['tags'],
+  components: {
+    Tag,
+  },
 };
 </script>
 
 <style lang="scss">
-ul.tags {
+@import '~@theme/styles/variables';
+
+.tags {
+  list-style-type: none;
   padding: 0;
   display: inline;
   text-transform: uppercase;
-  li {
+  color: $border-color;
+  &__tag {
     display: inline;
-    a {
-      font-size: 0.95em;
-      font-weight: bold;
+    &-link {
+      font-size: 0.9em;
+      font-weight: $font-weight-bold;
       text-transform: uppercase;
-      color: #222;
+      color: inherit;
     }
   }
-  li::after {
+  &__tag::after {
     content: ', ';
   }
-  li:last-child::after {
+  &__tag:last-child::after {
     content: none;
   }
 }
-
-a.tag,
-a.tag:visited {
-  text-transform: uppercase;
-  font-size: 0.8em;
-  color: #999;
-}
 </style>
-
-
-
