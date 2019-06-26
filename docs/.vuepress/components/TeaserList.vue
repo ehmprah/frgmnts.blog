@@ -23,10 +23,7 @@ export default {
           return !this.tag || page.frontmatter.tags.indexOf(this.tag) > -1;
         })
         .sort((a, b) => {
-          return (
-            new Date(b.frontmatter.lastUpdated) -
-            new Date(a.frontmatter.lastUpdated)
-          );
+          return new Date(b.lastUpdated) - new Date(a.lastUpdated);
         });
       return posts;
     },

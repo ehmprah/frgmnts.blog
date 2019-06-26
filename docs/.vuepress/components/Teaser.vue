@@ -1,5 +1,6 @@
 <template>
   <section class="teaser">
+    <!-- {{ page.lastUpdated }} -->
     <Tags :tags="page.frontmatter.tags"/>
     <router-link :to="page.path" class="teaser__link">{{ page.frontmatter.title }}</router-link>
   </section>

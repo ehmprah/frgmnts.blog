@@ -1,6 +1,6 @@
 ---
 type: post
-title: 'How Not to Make an Game'
+title: 'How Not to Make a Game'
 author: Mario Kaiser
 tags: ['Tech', 'Gaming']
 published: true
