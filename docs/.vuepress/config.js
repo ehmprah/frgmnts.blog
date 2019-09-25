@@ -14,7 +14,22 @@ module.exports = {
     'vuepress-plugin-rss': {
       base_url: '/',
       site_url: 'https://frgmnts.blog',
-      count: 20,
+      copyright: `${new Date().getFullYear()} Mario Kaiser`,
+      filter: frontmatter => {
+        return frontmatter.published === true;
+      },
+      count: 100,
+    },
+    'vuepress-plugin-autometa': {
+      site: {
+        name: 'FRGMNTS',
+        twitter: 'ehmprah',
+      },
+      author: {
+        name: 'Mario Kaiser',
+        twitter: 'ehmprah',
+      },
+      canonical_base: 'https://frgmnts.blog',
     },
   },
   themeConfig: {
