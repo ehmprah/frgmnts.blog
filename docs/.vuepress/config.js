@@ -8,9 +8,6 @@ module.exports = {
   },
   plugins: {
     alias: {},
-    sitemap: {
-      hostname: 'https://frgmnts.blog',
-    },
     'vuepress-plugin-rss': {
       base_url: '/',
       site_url: 'https://frgmnts.blog',

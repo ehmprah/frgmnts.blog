@@ -8,9 +8,6 @@
         <a type="application/rss+xml" href="/newsletter.html">Subscribe</a>
       </li>
       <li>
-        <a type="application/rss+xml" href="/sitemap.xml">Sitemap</a>
-      </li>
-      <li>
         <a href="/about.html">About</a>
       </li>
       <li>
@@ -18,7 +15,7 @@
       </li>
     </ul>
 
-    <Follow/>
+    <Follow />
     <div class="footer__copyright">&copy; {{ year }} all rights reserved</div>
   </div>
 </template>
