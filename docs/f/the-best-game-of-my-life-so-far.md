@@ -8,7 +8,9 @@ published: true
 date: 2019-09-25
 ---
 
-Over the course of my life I have played hundreds of games, on many different platforms. I would consider myself a connaisseur of video games. And it wasn't until now that I've found one which I consider calling the best game I've ever played. It's called Slay the Spire. I've played it for about 300 hours before I've finally beaten it. Hereafter I will tell about the journey from discovering this game to beating it on the hardest difficulty and why I think this game is so good.
+Over the course of my life I have played hundreds of games, on many different platforms. I would consider myself a connaisseur of video games. And it wasn't until now that I've found one which I consider calling the best game I've ever played. It's called Slay the Spire. I've played it for about 300 hours before I've finally beaten it a few days ago. Hereafter I will tell about the journey from discovering this game to beating it on the hardest difficulty and why I think this game is so good.
+
+![Picture of the tattoo](/img/ss8.jpg)
 
 I'll start with the latter, because it's so obvious I didn't need much time to realize just how well made Slay the Spire is. The user interface is the most clean and concise I've seen so far. Controlling the game is absolutely frictionless even for someone playing it for the first time. The graphics are engaging but don't distract from the game itself. The music is still not annoying after hundreds of hours into the game. And then of course there's the game itself: The marriage of deck-building and roguelike executed to perfection. It's so easy to pick up — but you need hundreds of hours to beat it all the way. At least for me, this game is absolutely perfect, there's nothing I'd add, remove or change in any way.
 
