@@ -2,7 +2,6 @@
 type: post
 title: 'The Best Game Of My Life (So Far)'
 htmlTitle: 'The Best Game Of My Life<br> (So Far)'
-image: /logo.png
 author: Mario Kaiser
 tags: ['Gaming']
 published: true

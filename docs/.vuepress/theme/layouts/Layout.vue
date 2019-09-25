@@ -22,10 +22,6 @@ import Footer from '@theme/components/Footer.vue';
 import Share from '@theme/components/Share.vue';
 
 export default {
-  mounted() {
-    console.log(this.$site);
-    console.log(this.$page);
-  },
   computed: {
     type: function() {
       if (this.$page.frontmatter.type) {

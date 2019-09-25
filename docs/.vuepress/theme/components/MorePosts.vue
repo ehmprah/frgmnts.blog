@@ -4,7 +4,7 @@
       <h2>Related posts</h2>
       <ul class="more-posts__teasers">
         <li v-for="post in related">
-          <Teaser :page="post"/>
+          <Teaser :page="post" />
         </li>
       </ul>
     </div>
@@ -12,7 +12,7 @@
       <h2>Most recent posts</h2>
       <ul class="more-posts__teasers">
         <li v-for="post in recent">
-          <Teaser :page="post"/>
+          <Teaser :page="post" />
         </li>
       </ul>
     </div>
@@ -20,7 +20,7 @@
       <h2>Also see</h2>
       <ul class="more-posts__teasers">
         <li v-for="post in random">
-          <Teaser :page="post"/>
+          <Teaser :page="post" />
         </li>
       </ul>
     </div>
@@ -39,7 +39,6 @@ export default {
         .filter(page => page.frontmatter.published === true);
     },
     related() {
-      console.log(this);
       const related = this.posts
         .filter(page => {
           return !this.tag || page.frontmatter.tags.indexOf(this.tag) > -1;
@@ -52,18 +51,13 @@ export default {
       });
     },
     recent() {
-      console.log(this);
       return this.posts
         .sort((a, b) => {
-          return (
-            new Date(b.frontmatter.date) -
-            new Date(a.frontmatter.date)
-          );
+          return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
         })
         .splice(0, 3);
     },
     random() {
-      console.log(this);
       return this.posts.sort(() => 0.5 - Math.random()).splice(0, 3);
     },
   },
