@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Fiction']
 published: false
 alias: f/thrust-issues
+date: TBD
 ---
 
 "It's a weird story. I know that the entire question of how much reality is behind the fiction is bullshit mostly, but I still can't help but wonder wether you actually do that. I wonder if you've done that yourself and slapped your penis against every piece of dinnerware on this table."
