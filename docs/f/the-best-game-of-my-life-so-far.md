@@ -3,7 +3,6 @@ type: post
 title: 'The Best Game Of My Life (So Far)'
 htmlTitle: 'The Best Game Of My Life<br> (So Far)'
 author: Mario Kaiser
-image: /logo.png
 tags: ['Gaming']
 published: true
 date: 2019-09-25
