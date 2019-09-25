@@ -10,4 +10,4 @@ This blog is called FRGMNTS because I believe that the fragment is the only form
 
 A note on language: I write this blog in English even though my native language is German. I see myself as a global citizen and as such I want to communicate to as many of my fellow citizens as possible; and while it may be disputable wether English is the best way to do that, it's definitely the best at my disposal. Feel free to point out any mistakes you find, and I will gladly correct them.
 
-If you want to contact me, you can do so at any of the social media below or send me an [email](mailto:hello@frgments.blog).
+If you want to contact me, you can do so at any of the social media below or send me an [email](mailto:hello@frgmnts.blog).
