@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Politics']
 published: true
 alias: f/lets-rethink-freedom
+date: 2017-11-30
 ---
 
 In western democracies, especially in the US or countries under its cultural spell, we begin in school to perpetuate the pride in our system and its values. As children we learn of our accomplishments, of enlightenment and democracy and freedom. We are told to cherish our core values and to fight for their survival. And as someone who's aware of the fact that millions of people on this earth don't have the same freedom, I do cherish them. But I don't think they are set in stone and have to stay the way they are. They can be reevaluated, improved.

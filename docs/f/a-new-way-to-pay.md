@@ -4,6 +4,7 @@ title: 'A New Way to Pay: Computing Power Instead of Ads and Personal Data'
 author: Mario Kaiser
 tags: ['Tech']
 published: true
+date: 2018-12-07
 alias: f/a-new-way-to-pay-computing-power-instead-of-ads-and-personal-data
 ---
 

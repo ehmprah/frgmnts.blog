@@ -4,6 +4,7 @@ title: 'How Not to Make a Game'
 author: Mario Kaiser
 tags: ['Tech', 'Gaming']
 published: true
+date: 2019-06-26
 ---
 
 This is a post-mortem and a collection of lessons learned while making my first indie game, Coregrounds, which we had published on Steam in April 2018 and shut down by the end of 2018.

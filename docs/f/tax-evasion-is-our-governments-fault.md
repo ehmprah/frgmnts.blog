@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Politics']
 published: true
 alias: f/not-tax-havens-or-companies-its-our-governments-fault
+date: 2017-11-06
 ---
 
 First off, I think the Paradise Papers are are marvellous feat of investigative journalism. I think it's awesome to live in a world where not only the rich and powerful get together and devise global schemes to get even richer, but journalists do the same thing, get together by the hundreds and work through millions of documents to expose those schemes.

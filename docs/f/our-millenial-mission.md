@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['New Meta']
 published: true
 alias: f/our-millenial-mission
+date: 2017-10-27
 ---
 
 There's a lot going on in the world. Much of it is wrong. I don't know how it feels for you, but me and my peers talk about it. A lot. I wouldn't even call myself a particularly political person, and I think neither are many of my friends really – but we definitely care about what's happening, about our world, about our future.

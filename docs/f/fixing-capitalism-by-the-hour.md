@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['New Meta', 'Business']
 published: true
 alias: f/fixing-capitalism-by-the-hour
+date: 2018-04-03
 ---
 
 We live in a world where wealth is very unfairly distributed. What's worse: this distribution is getting more and more unfair. The world economic forum said in a [2014 outlook](http://reports.weforum.org/outlook-14/top-ten-trends-category-page/2-widening-income-disparities/) that it's "essential that we devise innovative solutions to the causes and consequences of a world becoming ever more unequal".

@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Meta']
 published: true
 alias: f/hello-world
+date: 2017-09-17
 ---
 
 This is the first post to my first blog! Quite weird to be writing that as a digital native and as someone who has built dozens of websites over the past years. But heck, better late than never!

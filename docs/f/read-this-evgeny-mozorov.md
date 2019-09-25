@@ -4,6 +4,7 @@ title: 'Read This: Evgeny Mozorov'
 author: Mario Kaiser
 tags: ['Read This']
 published: true
+date: 2019-09-24
 ---
 
 I've recently discovered Evgeny Mozorov writes a column for the Guardian, most of which I've instantly devoured because I'm a huge fan of his work after reading [The Net Delusion](http://www.amazon.de/dp/014104957X/ref=nosim?tag=frgmnts-21), a

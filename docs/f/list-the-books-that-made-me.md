@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['List', 'Fiction']
 published: true
 alias: f/the-books-that-made-me
+date: 2018-05-28
 ---
 
 <!-- TODO: write short paragraph about each! -->

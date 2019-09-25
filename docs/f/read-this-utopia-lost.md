@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Read This']
 published: true
 alias: f/read-utopia-lost
+date: 2017-09-26
 ---
 
 [Utoria Lost: The Case for Radical Technological Optimism](https://medium.com/@DaleBeran/utopia-lost-7be0603716a4) is an essay by Dale Beran which I haven't managed to read until now because it's maybe the longest text I've ever read in one piece on a computer screen. It also is the finest piece of political writing I've read in years – and I implore you to read it, too. For the majority not immediately swayed by my personal judgement I have quick summary:

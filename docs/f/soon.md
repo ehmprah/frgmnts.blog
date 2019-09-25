@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Fiction']
 published: true
 alias: f/soon
+date: 2018-05-30
 ---
 
 The flipping of the switch was publicly televised, across the globe, and was a huge spectacle – even though everybody knew that Ariadne had been turned on many times before. Otherwise the public spectacle would not have been much of one: Ariadne hadn't begun to speak until a few days after she was first turned on.

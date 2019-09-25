@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Personal']
 published: true
 alias: f/embrace-death
+date: 2018-05-30
 ---
 
 In my opinion, based on the knowledge we currently have, death is final. I don't believe in any of the fairy tales people tell themselves to avoid facing the reality of their inevitable demise. In fact, death is far too important to be left to belief. Until we have any factual proof death is anything else than our return to nothingness, it's safe to say death is the end.

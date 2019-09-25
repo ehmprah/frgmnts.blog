@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['List', 'Gaming']
 published: true
 alias: f/games-to-play-with-bae
+date: 2018-05-30
 ---
 
 I consider myself a connaisseur of computer games. The question comes up regularly, both on and offline: which are best to to play with your partner? Which games are best to introduce your non-gamer significant other into that world you care so much about? Without further ado, here are my recommendations, all battle-tested and chosen because certain aspects of these games make them particularly apt to play with non-gamers:

@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['List', 'Gaming']
 published: true
 alias: f/the-games-that-made-me
+date: 2018-05-28
 ---
 
 <!-- TODO: write short paragraph about each! -->

@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Fiction']
 published: true
 alias: f/radiator-grille
+date: 2017-10-04
 ---
 
 I had recognised the guy from afar. He lived in our house, a few floors below. Not far enough to keep us from hearing the baby cry all day long though. The baby they didn't seem to want anyway. We were theorizing that it must have been one of these babies people are making to mend a broken relationship. We might be wrong, but the fact that they did neither seem happy, nor seem to like the kids they already had, we selfrighteously jumped to the conclusion.

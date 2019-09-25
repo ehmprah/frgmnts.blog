@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Politics']
 published: true
 alias: f/reclaim-the-fourth-power
+date: 2018-10-12
 ---
 
 Modern democracy is broken and needs to be fixed, for several reasons I've outlined [here](f/updates-are-available-for-your-system.html) for example. One of those reasons is the massive disparity in political influence exerted by big corporations and their lobbyists as opposed to the people. There are countless examples of political decisions being made in spite of the public's disapproval.

@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Personal']
 published: true
 alias: f/about-my-first-tattoo
+date: 2017-10-19
 ---
 
 It's a little over a year since I got my first tattoo from the amazing [Chaim Machlev](http://www.dotstolines.com/). It has been a most interesting journey so far, and I thought I'd share a few words about it.

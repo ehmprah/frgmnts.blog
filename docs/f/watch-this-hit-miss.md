@@ -4,6 +4,7 @@ title: 'Watch this: Hit & Miss'
 author: Mario Kaiser
 tags: ['Watch This']
 published: true
+date: 2018-07-16
 ---
 
 I consider myself a devourer of televised entertainment. As such, I have watched shitloads of series and only very few of them leave a lasting impression like the 6-episode mini-series Hit & Miss did.

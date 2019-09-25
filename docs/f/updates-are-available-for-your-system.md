@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Politics']
 published: true
 alias: f/democracy-20-updates-are-available-your-system
+date: 2017-09-17
 ---
 
 In Germany, we're voting in a week. It doesn't look good in my opinion: we're facing another term of smug and and arrogant management of yesterday's wealth, when instead we could be preparing for tomorrow's problems. But in my opinion, there's something more fundamentally wrong with our political systems: I think there's something rotten in the state of Denmark – and every other western democracy, for that matter.

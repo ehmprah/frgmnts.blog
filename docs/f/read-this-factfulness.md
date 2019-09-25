@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['Read This']
 published: true
 alias: f/read-this-factfulness
+date: 2018-07-24
 ---
 
 [Factfulness](http://www.amazon.de/dp/1473637465/ref=nosim?tag=frgmnts-21) by the amazing Hand Rosling (of whom I'm a fan as you maybe know), his son Ola Rosling and his daughter-in-law Anna Rosling Rönnlund is not just one of the most brilliant books I've ever read, it also establishes a worldview that could and should be the standard all over the world.

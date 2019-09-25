@@ -5,6 +5,7 @@ author: Mario Kaiser
 tags: ['List', 'Watch This']
 published: true
 alias: f/the-tv-that-made-me
+date: 2018-05-30
 ---
 
 <!-- TODO: write short paragraph about each! -->
