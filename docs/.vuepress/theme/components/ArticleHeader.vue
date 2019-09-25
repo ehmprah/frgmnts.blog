@@ -1,6 +1,11 @@
 <template>
   <div class="article-header">
-    <h1 class="article-header__title">{{ $page.frontmatter.title }}</h1>
+    <h1
+      class="article-header__title"
+      v-if="$page.frontmatter.htmlTitle"
+      v-html="$page.frontmatter.htmlTitle"
+    ></h1>
+    <h1 class="article-header__title" v-else>{{ $page.frontmatter.title }}</h1>
     <div class="article-header__details">
       <div>
         by
@@ -12,7 +17,7 @@
       </div>
       <div>
         tagged
-        <Tags :tags="$page.frontmatter.tags" class="article-header__tags"/>
+        <Tags :tags="$page.frontmatter.tags" class="article-header__tags" />
       </div>
     </div>
   </div>

@@ -1,6 +1,7 @@
 ---
 type: post
-title: 'A New Way to Pay: Computing Power Instead of Ads and Personal Data'
+title: 'A New Way to Pay: Computing Power Instead of Personal Data'
+htmlTitle: 'A New Way to Pay:<br>Computing Power Instead of Personal Data'
 author: Mario Kaiser
 tags: ['Tech']
 published: true

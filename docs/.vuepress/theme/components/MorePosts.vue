@@ -56,8 +56,8 @@ export default {
       return this.posts
         .sort((a, b) => {
           return (
-            new Date(b.frontmatter.lastUpdated) -
-            new Date(a.frontmatter.lastUpdated)
+            new Date(b.frontmatter.date) -
+            new Date(a.frontmatter.date)
           );
         })
         .splice(0, 3);

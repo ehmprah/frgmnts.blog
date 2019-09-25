@@ -34,8 +34,8 @@
     color: $color-text-dark !important;
     transition: all 0.3s;
     &:hover {
+      color: $color-pink !important;
       border-color: transparent;
-      justify-content: center;
     }
   }
   &__tagline {
