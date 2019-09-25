@@ -1,7 +1,7 @@
 <template>
   <div class="posts" v-if="posts.length">
     <template v-for="post in posts">
-      <Teaser :page="post"/>
+      <Teaser :page="post" :showDate="showDate" />
     </template>
   </div>
 </template>
@@ -9,6 +9,10 @@
 <script>
 export default {
   props: {
+    showDate: {
+      type: Boolean,
+      required: false,
+    },
     tag: {
       type: String,
       required: false,
@@ -23,7 +27,7 @@ export default {
           return !this.tag || page.frontmatter.tags.indexOf(this.tag) > -1;
         })
         .sort((a, b) => {
-          return new Date(b.lastUpdated) - new Date(a.lastUpdated);
+          return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
         });
       return posts;
     },

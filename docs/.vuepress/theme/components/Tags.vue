@@ -1,7 +1,7 @@
 <template>
   <ul class="tags">
     <li v-for="tag in tags" class="tags__tag">
-      <Tag class="tags__tag-link" :tag="tag"/>
+      <Tag class="tags__tag-link" :tag="tag" />
     </li>
   </ul>
 </template>
@@ -25,7 +25,7 @@ export default {
   padding: 0;
   display: inline;
   text-transform: uppercase;
-  color: $border-color;
+  color: $tag-color;
   &__tag {
     display: inline;
     &-link {

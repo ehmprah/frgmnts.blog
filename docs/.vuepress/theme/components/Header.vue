@@ -1,5 +1,18 @@
 <template>
-  <a class="logo" href="/">FRGMNTS</a>
+  <header class="header">
+    <div class="header__wrap">
+      <a class="header__logo" href="/">
+        <span>F</span>
+        <span>R</span>
+        <span>G</span>
+        <span>M</span>
+        <span>N</span>
+        <span>T</span>
+        <span>S</span>
+      </a>
+      <div class="header__tagline">Bite-size fiction and thoughts</div>
+    </div>
+  </header>
 </template>
 
 <script>
@@ -8,19 +21,27 @@
 <style lang="scss">
 @import '~@theme/styles/variables';
 
-.logo {
-  display: block;
-  text-align: center;
-  font-size: 0.75em;
-  font-weight: $font-weight-bold;
-  color: #222 !important;
-  letter-spacing: 10px;
-  transition: all 0.3s;
-  padding: 0.5rem;
-  border-bottom: 1px solid $border-color;
-  &:hover {
-    letter-spacing: 2px;
-    border-color: $border-color;
+.header {
+  border-bottom: 2px solid $color-text-dark;
+  padding: 0.75rem;
+  display: flex;
+  justify-content: center;
+  &__logo {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    font-weight: $font-weight-bold;
+    color: $color-text-dark !important;
+    transition: all 0.3s;
+    &:hover {
+      border-color: transparent;
+      justify-content: center;
+    }
+  }
+  &__tagline {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    text-align: center;
   }
 }
 </style>

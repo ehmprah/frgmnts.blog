@@ -1,16 +1,15 @@
 <template>
   <div class="page">
-    <header class="page__header">
-      <Header/>
-    </header>
+    <Header class="page__header" />
+
     <main class="page__content">
-      <ArticleHeader v-if="type === 'post'"/>
-      <Content/>
-      <Share v-if="type === 'post'"/>
-      <MorePosts v-if="type === 'post'"/>
+      <ArticleHeader v-if="type === 'post'" />
+      <Content />
+      <Share v-if="type === 'post'" />
+      <MorePosts v-if="type === 'post'" />
     </main>
     <header class="page__footer">
-      <Footer/>
+      <Footer />
     </header>
   </div>
 </template>

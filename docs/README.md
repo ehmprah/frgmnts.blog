@@ -1,1 +1,1 @@
-<TeaserList/>
+<TeaserList :showDate="true" />

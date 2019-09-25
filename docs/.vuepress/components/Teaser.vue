@@ -1,8 +1,8 @@
 <template>
   <section class="teaser">
-    <!-- {{ page.lastUpdated }} -->
-    <Tags :tags="page.frontmatter.tags"/>
+    <div class="teaser__date" v-if="showDate">{{ date }}</div>
     <router-link :to="page.path" class="teaser__link">{{ page.frontmatter.title }}</router-link>
+    <Tags :tags="page.frontmatter.tags" />
   </section>
 </template>
 
@@ -16,6 +16,19 @@ export default {
     page: {
       type: Object,
       required: true,
+    },
+    showDate: {
+      type: Boolean,
+      default: false,
+    },
+  },
+  computed: {
+    date() {
+      const date = new Date(this.page.frontmatter.date);
+      return `${('0' + date.getDate()).slice(-2)}/${(
+        '0' +
+        (date.getMonth() + 1)
+      ).slice(-2)}/${date.getFullYear()}`;
     },
   },
   components: {
@@ -37,6 +50,10 @@ export default {
   text-align: center;
   &__link {
     font-size: 1.2em;
+  }
+  &__date {
+    color: $date-color;
+    font-size: 0.9em;
   }
   &:first-child {
     border-top: none;
