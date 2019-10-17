@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <atom:link href="https://frgmnts.blog/podcast/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://frgmnts.blog</link>
+    <title>FRGMNTS: Bite Size Fiction</title>
+    <language>en</language>
+    <copyright>&#xA9;2019</copyright>
+    <webMaster>podcast@frgmnts.blog (Mario Kaiser)</webMaster>
+    <managingEditor>podcast@frgmnts.blog (Mario Kaiser)</managingEditor>
+    <image>
+      <url>https://frgmnts.blog/podcast/thumbnail.png</url>
+      <title>FRGMNTS</title>
+      <link>https://frgmnts.blog</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Mario Kaiser</itunes:name>
+      <itunes:email>podcast@frgmnts.blog</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Fiction" />
+    <itunes:keywords>fiction, science fiction, short fiction, philosophy, death</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://frgmnts.blog/podcast/thumbnail.png" />
+    <itunes:author>Mario Kaiser</itunes:author>
+    <description>In this podcast, Mario "ehmprah" Kaiser reads his (very) short fiction for anyone who prefers casual listening over reading.</description>
+    <itunes:summary>In this podcast, Mario "ehmprah" Kaiser reads his (very) short fiction for anyone who prefers casual listening over reading.</itunes:summary>
+    <itunes:subtitle>(Very) short fiction by Mario "ehmprah" Kaiser</itunes:subtitle>
+    <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Radiator Grille</title>
+      <link>https://frgmnts.blog/podcast/radiator-grille.mp3</link>
+      <guid>https://frgmnts.blog/podcast/radiator-grille.mp3</guid>
+      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
+      <description>About an accidental life saver.</description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>https://frgmnts.blog/podcast/intro.mp3</link>
+      <guid>https://frgmnts.blog/podcast/intro.mp3</guid>
+      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
+      <description>A short intro for the podcast.</description>
+    </item>
+  </channel>
+</rss>
