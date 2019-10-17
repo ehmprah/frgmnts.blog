@@ -29,17 +29,19 @@
     <lastBuildDate>Wed, 17 Oct 2019 00:00:00 GMT</lastBuildDate>
     <item>
       <title>Radiator Grille</title>
-      <link>https://frgmnts.blog/podcast/radiator-grille.mp3</link>
-      <guid>https://frgmnts.blog/podcast/radiator-grille.mp3</guid>
-      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
       <description>About an accidental life saver.</description>
+      <enclosure url="https://frgmnts.blog/podcast/radiator-grille.mp3" type="audio/mpeg" length="3847471" />
+      <guid>https://frgmnts.blog/podcast/radiator-grille.mp3</guid>
+      <itunes:duration>0:04:44</itunes:duration>
+      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Intro</title>
-      <link>https://frgmnts.blog/podcast/intro.mp3</link>
-      <guid>https://frgmnts.blog/podcast/intro.mp3</guid>
-      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
       <description>A short intro for the podcast.</description>
+      <enclosure url="https://frgmnts.blog/podcast/intro.mp3" type="audio/mpeg" length="316641" />
+      <guid>https://frgmnts.blog/podcast/intro.mp3</guid>
+      <itunes:duration>0:00:23</itunes:duration>
+      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
