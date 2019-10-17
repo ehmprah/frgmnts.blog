@@ -43,6 +43,15 @@ module.exports = {
     [
       'link',
       {
+        type: 'application/rss+xml',
+        rel: 'alternate',
+        href: 'https://frgmnts.blog/podcast/rss.xml',
+        title: 'FRGMNTS: Bite Size Fiction',
+      },
+    ],
+    [
+      'link',
+      {
         rel: 'apple-touch-icon',
         sizes: '180x180',
         href: 'apple-touch-icon.png',
