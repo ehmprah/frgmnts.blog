@@ -1,6 +1,6 @@
 ---
 type: post
-title: 'The Penny'
+title: 'A Penny for Your Thoughts'
 author: Mario Kaiser
 tags: ['Fiction']
 published: false
