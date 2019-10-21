@@ -1,4 +1,4 @@
-# Podcast
+# The FRGMNTS podcast
 
 For everyone out there who prefers listening over reading I have started a podcast where I read the (very) short fiction I write on this blog. So if you're into podcasts, fiction or just like to listen to me read stuff, this one might be for you. The podcast is available on these platforms:
 
