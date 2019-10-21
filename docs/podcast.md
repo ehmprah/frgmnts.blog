@@ -8,3 +8,4 @@ For everyone out there who prefers listening over reading I have started a podca
 - [Google Play Music](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ijdfyazotdk2rhhind2d3e7cqmm?t%3DFRGMNTS:_Bite_Size_Fiction%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
 - [Stitcher](https://www.stitcher.com/podcast/mario-kaiser/frgmnts-bite-size-fiction?refid=stpr)
 - [Pocket Casts](https://pca.st/ef4jv21z)
+- [TuneIn](https://tunein.com/podcasts/Podcasts/FRGMNTS-Bite-Size-Fiction-p1258066/)
