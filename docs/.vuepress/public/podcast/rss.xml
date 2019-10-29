@@ -27,7 +27,16 @@
     <itunes:summary>In this podcast, Mario "ehmprah" Kaiser reads his (very) short fiction for anyone who prefers casual listening over reading.</itunes:summary>
     <itunes:subtitle>(Very) short fiction by Mario "ehmprah" Kaiser</itunes:subtitle>
     <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>A Penny for Your Thoughts</title>
+      <description>About a lucky penny, presumably.</description>
+      <enclosure url="https://frgmnts.blog/podcast/a-penny-for-your-thoughts.mp3" type="audio/mpeg" length="3847471" />
+      <guid>https://frgmnts.blog/podcast/a-penny-for-your-thoughts.mp3</guid>
+      <link>https://frgmnts.blog/f/a-penny-for-your-thoughts.html</link>
+      <itunes:duration>01:21</itunes:duration>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Radiator Grille</title>
       <description>About an accidental life saver.</description>
