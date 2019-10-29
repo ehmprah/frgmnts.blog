@@ -2,7 +2,7 @@
   <figure class="podcast">
     <figcaption class="podcast__caption">
       This appears on the
-      <a href="/podcast/rss.xml">Podcast</a>
+      <a href="/podcast.html">Podcast</a>
     </figcaption>
     <audio controls :src="url">
       Your browser does not support the

@@ -3,9 +3,11 @@ type: post
 title: 'A Penny for Your Thoughts'
 author: Mario Kaiser
 tags: ['Fiction']
-published: false
-date: TBD
+published: true
+date: 2019-10-29
 ---
+
+<Podcast url="/podcast/a-penny-for-your-thoughts.mp3" />
 
 After getting a sandwich and a coffee to go, he went across the square to find a nice place to sit and enjoy the rising spring sun. Out of the corner of his eye he spotted a penny on the concrete.
 
