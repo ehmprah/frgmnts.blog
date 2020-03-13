@@ -29,6 +29,15 @@
     <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
     <lastBuildDate>Tue, 29 Oct 2019 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Lifestreaming</title>
+      <description>About streaming, everything.</description>
+      <enclosure url="https://frgmnts.blog/podcast/lifestreaming.mp3" type="audio/mpeg" length="1131389" />
+      <guid>https://frgmnts.blog/podcast/lifestreaming.mp3</guid>
+      <link>https://frgmnts.blog/f/lifestreaming.html</link>
+      <itunes:duration>01:22</itunes:duration>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Drifting Off</title>
       <description>About floating between worlds.</description>
       <enclosure url="https://frgmnts.blog/podcast/drifting-off.mp3" type="audio/mpeg" length="1621644" />
