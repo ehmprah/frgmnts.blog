@@ -60,3 +60,5 @@ While Coregrounds itself was a failure, I had years of fun making it. I have dev
 ## Where to next?
 
 Coregrounds was my first real game project, but most definitely not my last. In fact, a second game is currently in the works. It's not going to be a multiplayer game. I'm not going to develop it in full time, draining my savings. This time, I'm making it with the hobbyist's heart, no strings attached. If you're interested in that, follow me on [Twitter](https://twitter.com/ehmprah) or subscribe to my [newletter](/newsletter.html).
+
+<img src="https://vg09.met.vgwort.de/na/3d503ae9f7db466d94a88f37b2472bbd" width="1" height="1" alt="">
