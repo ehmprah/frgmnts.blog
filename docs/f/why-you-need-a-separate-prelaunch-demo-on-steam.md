@@ -12,7 +12,7 @@ date: 2020-04-06
 
 ![Core Defense](/img/store_gif_final.png)
 
-Core Defense is my second game and my first premium game. It's a singleplayer spinoff from my first game Coregrounds  – a free-to-play multiplayer game we had published on Steam in early 2018 and shut down in early 2019 due to various reasons outlined [here](https://frgmnts.blog/f/how-not-to-make-a-game.html). After the experience with my first game I opted for the [First Access](https://www.gamasutra.com/blogs/MartinNerurkar/20171116/309717/Five_Weeks_in_the_Wild__Early_Access_on_itchio.php) strategy this time and released the game on itch.io in January – but I will be taking my time to polish the game as best as I can before I release it on Steam.
+[Core Defense](https://store.steampowered.com/app/1203360/Core_Defense/) is my second game and my first premium game. It's a singleplayer spinoff from my first game Coregrounds  – a free-to-play multiplayer game we had published on Steam in early 2018 and shut down in early 2019 due to various reasons outlined [here](https://frgmnts.blog/f/how-not-to-make-a-game.html). After the experience with my first game I opted for the [First Access](https://www.gamasutra.com/blogs/MartinNerurkar/20171116/309717/Five_Weeks_in_the_Wild__Early_Access_on_itchio.php) strategy this time and released the game on itch.io in January – but I will be taking my time to polish the game as best as I can before I release it on Steam.
 
 In February I stumbled upon this [Twitter thread](https://twitter.com/RaveofRavendale/status/1228269323195748352) by Mike Rose about whether it's worth to do a prelaunch demo. While Mike doesn't recommend a demo linked to your game, he mentioned demos set up as free, separate apps on Steam. Up to this point I didn't even think about doing a demo – but checking out all these [prologues](https://store.steampowered.com/search/?term=prologue) people seem to be doing on Steam it dawned on me that this might be a tremendously good idea for a couple of reasons:
 
@@ -23,7 +23,7 @@ In February I stumbled upon this [Twitter thread](https://twitter.com/RaveofRave
 
 All of these points sounded very promising, so I decided to take the detour and create a separate app and do the setup for Steam earlier than planned – which has a nice side-effect: I did it for both the full game and the demo at the same time which means I'm ready to release on Steam without any more work.
 
-Then almost three weeks ago I have released the demo on Steam and I have been blown away by the numbers. The prelaunch demo as a separate app did not only meet my expectations but clearly surpassed them. I got
+Then almost three weeks ago I have released the demo on Steam and I have been blown away by the numbers. The prelaunch demo as a separate app did not only meet my expectations but clearly surpassed them. Without doing any marketing! From only organic Steam traffic I got
 
 - lots useful feedback, bug and UX issue reports
 - dozens of new translators
