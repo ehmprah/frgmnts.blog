@@ -20,45 +20,56 @@ Naturally this post will contain lots of dos – but if you're also interested i
 
 ## Quality
 
-The single most important thing you can do to make your game a success is to put quality first – in every aspect of game development there is. Your concept, your game design, your interface design, your community management, your marketing, your store page – just about everything you do you should be the best you can possibly do.
+My first game failed for many reasons, the most important one: it was hemorrhaging players from the start. It was too complex, not at all easy to learn, there were bugs and technical issues – all along the way I lost players by the thousands to completely avoidable roadblocks. This time around, I wanted to get it right and tried to make a game as simple and as good as possible.
+
+In my humble opinion ...
+
+The single most important thing you can do to make your game a success is to put quality first in every aspect of game development. Your concept, your game design, your interface design, your community management, your marketing, your store page – just about everything you do you should be the best you can possibly do.
 
 When talking about selling games and things, we always talk about how to gain more, grow more, reach more – but personally I think it's the wrong way to go about it. We have huge markets to tap into anyway and I think you should worry more about loosing people than about reaching more.
 
 By releasing a game on Steam, you will get your game in front of thousands of people no matter what – so what you want to make sure is that you loose as few of those as you can. Try to remove friction every step of the way. From your Steam capsule image to the game's interface everything should try to be as crystal clear, as appealing and as much fun to use as possible.
 
+TODO: MERGE quality & simplicity
+
 ## Simplicity
 
 To achieve high quality, keeping things simple helps a great deal. Identify what's really important and keep iterating on that. Core Defense has no tutorial and doesn't need one – and while I'm happy with the game as it is, I already know that my next game has to be so much more simple still.
 
-Keeping things simple helps selling your game because you can exactly pinpoint what it's about. It helps people understand your game. Simplicity also massively helps planning, building and maintaining your game. Both quality and simplicity should be constant companions on your game development journey, perpetually challenging yourself: is this really the best and simplest solution to your problem?
+Keeping things simple helps selling your game because you can exactly pinpoint what it's about. It helps people understand your game. Simplicity also massively helps planning, building and maintaining your game.
 
+Both quality and simplicity should be constant companions on your game development journey, perpetually challenging yourself: is this really the best and simplest solution to your problem?
 
-Quality
-Simplicity
-First Access
+## Release Strategy
 
-## Store Page
+public alpha, beta on itch, release on steam
 
-- feeling, situation you want to create (sts)
-- simple as can be
-- first access
+## Steam Store Page
 
-what worked:
-- first access on itch
-- steam page as early as possible (wishlists!)
-- simplicity
-- localization
-- demo (localization + wishlists)
-- difficulty
+as early as possible (wishlists!), as finetuned as possible
 
-what didn't:
+## Localization
+
+bigger audience. period. get most of it for free.
+
+## Demo
+
+more wishlists, feedback, if standalone even reviews – which for some ppl is the only feedback they'll ever give.
+
+## Marketing
+
+- influencer outreach: by far the most
+- social media presence: find new fans, keep your old ones on board.
+- press releases:
+- press outreach: even if it's just for those 3 quotes on the store page
 - forum posts
 - giveaways
-- press
+- sharing data, post mortems, amas are a win-win: others can learn, you can get more eyes on your game
 
-- share share share, thoughts and whatnot
+## Beware of the burnout
 
-all things from the ama
+Being an indie dev is hard.
+
 
 the situation, caveat: burnout!
 
