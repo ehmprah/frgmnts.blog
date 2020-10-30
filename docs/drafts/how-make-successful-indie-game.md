@@ -10,47 +10,35 @@ date: 2020-08-07 # TODO: define!
 
 <img alt="Core Defense" src="/img/store_gif_final.png" style="width:100%">
 
-A few months ago I released [Core Defense](https://store.steampowered.com/app/1203360/Core_Defense/) on Steam and grossed $20,186 in the first week. Nothing crazy, but good enough for a solo indie developer – especially if you take into account that you can expect to make 2-5x your first week's revenue during your first year ([according to](https://www.gamasutra.com/blogs/SimonCarless/20200615/364798/Steam_the_new_wishlists_to_first_week_sales_expectations.php) Simon Carless, whose [newsletter](https://gamediscoverability.substack.com/) I cannot recommend enough).
+A few months ago I released [Core Defense](https://store.steampowered.com/app/1203360/Core_Defense/) on Steam and grossed $20,186 in the first week. Nothing crazy, but good enough for a solo indie developer – especially if you take into account that you can expect to make 2-5x your first week's revenue during your first year ([according to](https://www.gamasutra.com/blogs/SimonCarless/20200615/364798/Steam_the_new_wishlists_to_first_week_sales_expectations.php) Simon Carless, whose [newsletter](https://gamediscoverability.substack.com/) I cannot recommend enough.
 
-Currently I am at around 2.5x of the first week's revenue and I haven't done a single sale on Steam, which will profit from more than twice the amount of wishlists I had at launch. And the mobile versions haven't
+Currently I am at around 2.5x of the first week's revenue and I haven't done a single sale on Steam yet, which will profit from more than twice the amount of wishlists I had at launch. And then the game's coming to Adnroid and iOS soon, so all in all I would call Core Defense a somewhat successful indie game so far.
 
-So all in all I would call Core Defense a somewhat successful indie game.
-
-In this post mortem (which is the more readable version of my [AMA on r/gamedev](https://www.reddit.com/r/gamedev/comments/i1oi1o/im_a_solo_indie_dev_my_new_game_just_make_3k_in/)) I will share my lessons learned and give you my take on why Core Defense became a modest success.
-
-Naturally this post will contain lots of dos – but if you're also interested in the don'ts, check out the [post mortem](https://frgmnts.blog/f/how-not-to-make-a-game.html) about my first failed game Coregrounds.
-
-## SIMPLICIY FIRST!
-
-## Quality
-
-My first game failed for many reasons, the most important one: it was hemorrhaging players from the start. It was too complex, not at all easy to learn, there were bugs and technical issues – all along the way I lost players by the thousands to completely avoidable roadblocks. This time around, I wanted to get it right and tried to make a game as simple and as good as possible.
-
-In my humble opinion ...
-
-The single most important thing you can do to make your game a success is to put quality first in every aspect of game development. Your concept, your game design, your interface design, your community management, your marketing, your store page – just about everything you do you should be the best you can possibly do.
-
-When talking about selling games and things, we always talk about how to gain more, grow more, reach more – but personally I think it's the wrong way to go about it. We have huge markets to tap into anyway and I think you should worry more about loosing people than about reaching more.
-
-By releasing a game on Steam, you will get your game in front of thousands of people no matter what – so what you want to make sure is that you loose as few of those as you can. Try to remove friction every step of the way. From your Steam capsule image to the game's interface everything should try to be as crystal clear, as appealing and as much fun to use as possible.
-
-TODO: MERGE quality & simplicity
+In this post mortem (which is the more readable version of my [AMA on r/gamedev](https://www.reddit.com/r/gamedev/comments/i1oi1o/im_a_solo_indie_dev_my_new_game_just_make_3k_in/)) I will share my lessons learned and give you my take on why Core Defense became a modest success. Naturally this post will contain lots of dos – but if you're also interested in the don'ts, check out the [post mortem](https://frgmnts.blog/f/how-not-to-make-a-game.html) about my first failed game Coregrounds.
 
 ## Simplicity
 
-"making the game dead simple with a dopamine-rushing core hook but high replayability and strategic diversity"
+Being a minimalist at heart, I like simple things. Unfortunately that didn't keep me from making my last game a complexity monster. This time around I wanted to make a game that's simple but highly replayable and strategically diverse – and I think its simplicity is one of the core reasons (pun intended) for its success. Core Defense has no tutorial and does not need one. Its simple, dopamine-rushing core loop: get rewards, update your build, survive the next wave, repeat.
 
-To achieve high quality, keeping things simple helps a great deal. Identify what's really important and keep iterating on that. Core Defense has no tutorial and doesn't need one – and while I'm happy with the game as it is, I already know that my next game has to be so much more simple still.
+Embracing simplicity allows you to easily communicate what your game is about and why people should care, which helps selling your game in the first place. Players can dive right in and get to the fun faster (only if your game is fun of course), meaning less churn, more positive reviews and ultimately even more sales. Oh and did I mention that simple games are not only faster to build and easier to maintain, but also much more fun to work on? Believe me, I did both and crawling back out of countless rabbit holes is way less fun than tending to a nice little zen garden of a game project.
 
-Keeping things simple helps selling your game because you can exactly pinpoint what it's about. It helps people understand your game. Simplicity also massively helps planning, building and maintaining your game.
+## Quality
 
-Both quality and simplicity should be constant companions on your game development journey, perpetually challenging yourself: is this really the best and simplest solution to your problem?
+My first game failed for many reasons, the most important one: it was hemorrhaging players from the start. And it was not just the game's complexity I've mentioned above: apart from a terrible user experience the game had bugs and technical issues aplenty – all of which were completely avoidable roadblocks.
+
+Quality is not everything, but without quality everything is nothing. With Core Defense I have tried to put quality first in every way possible. The concept and game design, the user experience, the store page – just about everything I did I tried to do as best as I could, reiterating and polishing as often as I reasonably could.
+
+When talking about selling games and things, we always talk about how to gain more, grow more, reach more – but personally I think it's the wrong way to go about it. We have huge markets to tap into anyway and I think we should worry more about loosing people than about reaching more. By releasing a game on Steam, we get our games in front of thousands of people no matter what – so we should make sure we loose as few of those as we can.
+
+With Core Defense I have tried to remove friction every step of the way: From the Steam capsule image to the game's user interface everything was designed to be as crystal clear and appealing and as much fun to use as possible.
 
 ## Community-driven development
 
-The Discord had about 200 people, 30-50 of which were very active.
-community-driven development: the game is SO much better thanks to all the ideas from the community, which I actively ask for and try to quickly implement
-customer service mentality
+For Core Defense I luckily chose a community-driven development approach. After finishing the concept I whipped up an alpha version of the game within two months and created a Discord server to get people to play it. I kickstarted the server by alerting my last game's community (from which Core Defense is spin-off after all) and gaming outlets like [AlphaBetaGamer](https://www.alphabetagamer.com/core-defense-alpha-download/).
+
+And since then the Discord server has been constantly growing and has been an invaluable ressource for the game's development. Much of the content in the game today is based on player's ideas and feedback. Countless bugs and issues were reported and the community was and is an endless source of both motivation and inspiration.
+
+One reason this was working so well though: I was actively engaged with the community, reading absolutely everything they posted and commenting on most of it. The same is true for the Steam community discussions, where there's virtually no post without feedback from me. So while it was a considerable amount of work, not a minute of it I spent in vain.
 
 ## Steam Store Page
 
