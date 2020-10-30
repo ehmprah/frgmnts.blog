@@ -19,7 +19,7 @@
   "devDependencies": {
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
-    "vuepress": "^1.5.3",
+    "vuepress": "^1.7.1",
     "vuepress-plugin-alias": "^1.0.0-beta",
     "vuepress-plugin-autometa": "^0.1.13",
     "vuepress-plugin-rss": "^2.0.0"
