@@ -10,7 +10,7 @@ date: 2020-08-07 # TODO: define!
 
 <img alt="Core Defense" src="/img/store_gif_final.png" style="width:100%">
 
-A few months ago I released [Core Defense](https://store.steampowered.com/app/1203360/Core_Defense/) on Steam and grossed $20,186 in the first week. Nothing crazy, but good enough for a solo indie developer – especially if you take into account that you can expect to make 2-5x your first week's revenue during your first year ([according to](https://www.gamasutra.com/blogs/SimonCarless/20200615/364798/Steam_the_new_wishlists_to_first_week_sales_expectations.php) Simon Carless, whose [newsletter](https://gamediscoverability.substack.com/) I cannot recommend enough.
+A few months ago I released [Core Defense](https://store.steampowered.com/app/1203360/Core_Defense/) on Steam and grossed $20,186 in the first week. Nothing crazy, but good enough for a solo indie developer – especially if you take into account that you can expect to make 2-5x your first week's revenue during your first year, [according to](https://www.gamasutra.com/blogs/SimonCarless/20200615/364798/Steam_the_new_wishlists_to_first_week_sales_expectations.php) Simon Carless, whose [newsletter](https://gamediscoverability.substack.com/) I cannot recommend enough.
 
 Currently I am at around 2.5x of the first week's revenue and I haven't done a single sale on Steam yet, which will profit from more than twice the amount of wishlists I had at launch. And then the game's coming to Adnroid and iOS soon, so all in all I would call Core Defense a somewhat successful indie game so far.
 
@@ -20,17 +20,15 @@ In this post mortem (which is the more readable version of my [AMA on r/gamedev]
 
 Being a minimalist at heart, I like simple things. Unfortunately that didn't keep me from making my last game a complexity monster. This time around I wanted to make a game that's simple but highly replayable and strategically diverse – and I think its simplicity is one of the core reasons (pun intended) for its success. Core Defense has no tutorial and does not need one. Its simple, dopamine-rushing core loop: get rewards, update your build, survive the next wave, repeat.
 
-Embracing simplicity allows you to easily communicate what your game is about and why people should care, which helps selling your game in the first place. Players can dive right in and get to the fun faster (only if your game is fun of course), meaning less churn, more positive reviews and ultimately even more sales. Oh and did I mention that simple games are not only faster to build and easier to maintain, but also much more fun to work on? Believe me, I did both and crawling back out of countless rabbit holes is way less fun than tending to a nice little zen garden of a game project.
+Embracing simplicity allows you to easily communicate what your game is about and why people should care, which helps selling your game in the first place. Players can dive right in and get to the fun faster (oh yeah your game needs that, too) – meaning less churn, more positive reviews and ultimately even more sales. Oh and did I mention that simple games are not only faster to build and easier to maintain, but also much more fun to work on? Believe me, I did both and crawling back out of countless rabbit holes is way less fun than tending to a nice little zen garden of a game project.
 
 ## Quality
 
 My first game failed for many reasons, the most important one: it was hemorrhaging players from the start. And it was not just the game's complexity I've mentioned above: apart from a terrible user experience the game had bugs and technical issues aplenty – all of which were completely avoidable roadblocks.
 
-Quality is not everything, but without quality everything is nothing. With Core Defense I have tried to put quality first in every way possible. The concept and game design, the user experience, the store page – just about everything I did I tried to do as best as I could, reiterating and polishing as often as I reasonably could.
-
 When talking about selling games and things, we always talk about how to gain more, grow more, reach more – but personally I think it's the wrong way to go about it. We have huge markets to tap into anyway and I think we should worry more about loosing people than about reaching more. By releasing a game on Steam, we get our games in front of thousands of people no matter what – so we should make sure we loose as few of those as we can.
 
-With Core Defense I have tried to remove friction every step of the way: From the Steam capsule image to the game's user interface everything was designed to be as crystal clear and appealing and as much fun to use as possible.
+Quality is not everything, but without quality everything is nothing. With Core Defense I have tried to put quality first and to remove as much friction as possible. From the game design and user interface to the Steam capsule image everything was designed to be as crystal clear and appealing and as much fun to use as possible.
 
 ## Community-driven development
 
@@ -40,17 +38,21 @@ And since then the Discord server has been constantly growing and has been an in
 
 One reason this was working so well though: I was actively engaged with the community, reading absolutely everything they posted and commenting on most of it. The same is true for the Steam community discussions, where there's virtually no post without feedback from me. So while it was a considerable amount of work, not a minute of it I spent in vain.
 
-## Steam Store Page
+## Store Page
 
-as early as possible (wishlists!), as finetuned as possible
+Your store page is everything: you can have the best game of all time but if no one's going to make it past the store page, no one will ever know about it. All in all I spent at least an entire week's worth of work on creating and finetuning the Steam store page of Core Defense – and there's not even that much content on it, the main description fits above the fold. In the past couple of months, the game has sold almost as many copies as it gained wishlists, which I think is an indicator for a strong store page and proper pricing.
+
+Mostly because of the minimalist graphics which obfuscate the production value I opted for a $9.99 price point. I have heard all kinds of feedback on this, mostly that the price is fair or could have been higher. But my feeling is that the price was perfect and one of the reasons sells so well.
 
 ## Release Strategy
 
-timeline: Worked on the concept for about 3 months then started developing last September. Had a public alpha out for about a month before I released it as early access on itch.io in mid January.
+If you haven't released a game on Steam before you might not know that you get a visibility boost in the first month after the release. After learning this the hard way with my last game I knew that this time around I wanted to make the most out of that boost: I wanted to release a properly polished product on Steam and convert as much of that traffic as possible.
 
-public alpha, beta on itch, release on steam
+After reading about Martin Nerurkar [launch strategy](https://www.gamasutra.com/blogs/MartinNerurkar/20180410/316400/Early_Access_without_Steam.php) for Nowhere Prophet, which had an Early Access phase via itch.io before being released on Steam as finished game, I knew that was perfect and did exactly the same thing.
 
- (with a widget on itch.io to drive people to it)
+After the short public alpha I had released the beta version of Core Defense on itch.io for $9.99 in mid-January 2020, roughly six months before the release on Steam. I think it was very important to have had the Steam store page ready for the itch.io release – I even included a Steam wishlist widget on the itch.io store page and announced free Steam keys for all owners of the game.
+
+In the end Core Defense only sold about 150 copies there, but that was more than enough to keep the community-driven development going and to arrive at the level of polish necessary to nail the Steam release.
 
 ## Localization
 
