@@ -56,6 +56,9 @@ In the end Core Defense only sold about 150 copies there, but that was more than
 
 ## Localization
 
+More than half of the game's sales were made in non-english speaking countries – which might not entirely be attributed to the fact that the game is localized in almost a dozen languages, but I'm pretty sure it helped. And the best part: for most of it I didn't even pay a dime. I crowdsourced the localization via [localizor.com](https://www.localizor.com/core-defense), which was still in beta at the time. It was good then already and just keeps getting better and better.
+
+-> logo in game during early access!
 bigger audience. period. get most of it for free.
 roughly 55% sales out of english speaking countries.
 
