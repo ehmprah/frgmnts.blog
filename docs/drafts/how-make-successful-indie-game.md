@@ -56,16 +56,13 @@ In the end Core Defense only sold about 150 copies there, but that was more than
 
 ## Localization
 
-More than half of the game's sales were made in non-english speaking countries – which might not entirely be attributed to the fact that the game is localized in almost a dozen languages, but I'm pretty sure it helped. And the best part: for most of it I didn't even pay a dime. I crowdsourced the localization via [localizor.com](https://www.localizor.com/core-defense), which was still in beta at the time. It was good then already and just keeps getting better and better.
+More than half of the game's sales come from non-english speaking countries – which might not entirely be attributed to the fact that the game is localized in almost a dozen languages, but I'm pretty sure it helped. And the best part: for most of it I didn't even pay a dime. I crowdsourced the localization via [localizor.com](https://www.localizor.com/core-defense), which was still in beta at the time. It was good then already and just keeps getting better and better. All I had to do is add a call to action on the game's home screen and thanks to the community I was able to add another translation to the game every other update. The store pages I had successively translated via [translated.com](https://translated.com/). What I could have done better here: funneling the translators through the Discord server would have helped as I have no way of reaching most of them for updates et cetera.
 
--> logo in game during early access!
-bigger audience. period. get most of it for free.
-roughly 55% sales out of english speaking countries.
+## Standalone Demo
 
-## Demo
-https://twitter.com/RaveofRavendale/status/1228269323195748352
-https://frgmnts.blog/f/why-you-need-a-separate-prelaunch-demo-on-steam.html
-more wishlists, feedback, if standalone even reviews – which for some ppl is the only feedback they'll ever give. by far the most effective marketing tool I've used for CD.
+When I stumbled upon Mike Rose's [thread about pre-launch demos on Steam](https://twitter.com/RaveofRavendale/status/1228269323195748352) I quickly decided to give this a try and created a standalone pre-launch demo on Steam. It turned out a complete success: the demo netted me about 3000 wishlists for the game, among many other benefits which I have outlined in a [separate blog post](https://frgmnts.blog/f/why-you-need-a-separate-prelaunch-demo-on-steam.html).
+
+My next game definitely will have a demo as well, the only question is whether it will be a standalone one. An onpage demo is less work and costs nothing, but the standalone demo will benefit from Steam's visibility boost, which means a lot more eyeballs on your game for just $100 you have to pay for the extra app credit. In terms of time and money spent on marketing, the demo was by far the most effective gig I have done for Core Defense.
 
 ## Marketing
 
