@@ -1,7 +1,7 @@
 ---
 type: post
-title: 'Multi-Platform Javascript – The Good, the Bad & the Ugly'
-htmlTitle: 'Multi-Platform Javascript – The Good, the Bad & the Ugly'
+title: 'Making Multi-Platform Games With Javascript – The Good, the Bad & The Ugly'
+htmlTitle: 'Making Multi-Platform Games With Javascript –<br> The Good, the Bad & The Ugly'
 author: Mario Kaiser
 tags: ['Tech', 'Gaming']
 published: true
@@ -31,7 +31,7 @@ Don't get me wrong: I absolutely love JavaScript and would love to continue maki
 
 ## The Good: A Plethora of Plugins
 
-The JavaScript ecosystem is just awesome, there's a plugin for everything and then some. Because you don't have to reinvent the wheel all the time, your time to market can be extremely short, which is especially useful in the day and age of early access where games are constantly developed and evolving.
+The JavaScript ecosystem is awesome, there's a plugin for everything and then some. Because you don't have to reinvent the wheel all the time, your time to market can be extremely short, which is especially useful in the day and age of early access where games are released early on and are continously developed.
 
 ## The Good: Responsive Design
 
@@ -71,13 +71,10 @@ Of course you could argue that there are much better services than Admob, that m
 
 ## The Ugly: Appflow vs Electron
 
-My monorepo for Core Defense was a thing of beauty for a long time. Enter Appflow, a cloud build service for packaging mobile apps made with Capacitor. I love and still use that service – but it had trouble building for iOS with the Electron packages in my repository, leading to signing issues unless all references to Electron were removed. Ultimately I had to resort to creating a separate sub-package for the mobile versions, symlinking the
+My monorepo for Core Defense was a thing of beauty for a long time. Enter Appflow, a cloud build service for packaging mobile apps made with Capacitor. I love and still use that service – but it had trouble building for iOS with the Electron packages in my repository, leading to signing issues unless all references to Electron were removed. Ultimately I had to resort to creating a separate sub-package for the mobile versions, symlinking the source folder of the main package. I cringe every time I look at that repo since.
 
+## All in All: Room for Improvement
 
+All jaded rants aside: I've built a successful game with a programming language I love and I've been massively aided by open source software and cool proprietary tools. But looking back at the overall experience and the missed opportunities I'm going to try new things going forward – as I mentioned before my [next game](https://thousandlives.ehmprah.com/) will be made with Godot. I'm not expecting this to be the silver bullet, but at this point I'm really keen on trying a framework that was actually made for games instead of endlessly trying to use a wrench as a hammer. If you liked this post, consider bookmarking this blog and coming back in the future, or following me on [Twitter](https://twitter.com/ehmprah) for updates. Oh and do ping me there if you've got different experiences or opinions, I'd love to hear your story as well!
 
-
-## Ok thanks bye
-
-Thanks for reading – I hope you liked this post! If you did, consider bookmarking this blog and coming back in the future, or following me on [Twitter](https://twitter.com/ehmprah) for updates.
-
-<img src="https://vg09.met.vgwort.de/na/b57db01305e54829910870ca2b87b46c" width="1" height="1" alt="">
+<img src="https://vg09.met.vgwort.de/na/0f2ec55ccf0748ec8b5d0404deb4eb91" width="1" height="1" alt="">
