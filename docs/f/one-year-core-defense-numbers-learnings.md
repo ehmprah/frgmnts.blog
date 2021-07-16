@@ -39,19 +39,38 @@ I wanted to add that anyway but saw that as an opportunity to make an extra buck
 
 But even though I expected some backlash from players, especially due to the relatively aggressive $4.99 price point, I was surprised by just how mad this made some players. My reviews plunged from 86% to 81% within days of the DLC release and suddenly the recent review score showed "Very Negative" in deep red at the top of the store page. The baseline daily purchases dropped from 3-5 to zero, the still "Very Positive" score below notwithstanding. In the end I just had to wait a few weeks before those recent reviews vanished in the crowd but heck those were a few scary weeks.
 
+## Mobile ads and marketing
+
+Before I break down the numbers on the Play Store and App Store, I feel the need to explain: I have only recently begun marketing for the mobile versions because my monetization strategy involved rewarded ads via AdMob, which did not work at all as I expected, leading me to postpone marketing again and again.
+
+I wanted the ads to work before I start the marketing – but in the end I was so frustrated with the whole shebang I discarded them and replaced them with a consumable currency, which players can now spend instead of watching a rewarded ad.
+
+Since the game is based on JavaScript and relies on Capacitor for the mobile versions, AdMob was pretty much my only option because I didn't want to write the native plugins the ecosystem didn't offer. But
+
+ad serving limits
+ios ads started working in fact
+
+## Rating prompt
+
+
 ## iOS Breakdown
 
-- rating: 4.x over xx ratings
-- players
-- sales
+- gross revenue: $3,740
+- rating: 4.4 across 85 ratings
+- downloads: 15,400
+
+
+
+the whole review madness! but got a small feature out of it (link to form!)
 
 ## Android Breakdown
 
-- rating: 4.x over xx ratings
-- players
+- gross revenue: $917
+- rating: 4.0 across 58 ratings
+- downloads: 3,117
 - sales (+ admob revenue)
+- Admob $201.55 for 19.578 requests
 
-## Mobile ads and marketing
 
 
 
@@ -74,7 +93,7 @@ While the localizations helped me sell the game, they don't keep the promise the
 
 I always envisioned Core Defense to be playable across all platforms – not just PC and mobile, but also on various consoles. Unfortunately I chose the wrong tech stack to reasonably make this vision a reality.
 
-Coming from a web development background I wanted to use JavaScript and friends and optimistically assumed that it would be possible to package Core Defense for consoles as well. I did the actual research too late and only recently found out that while this is actually possible, [it's incredibly hard](/f/multi-platform-games-javascript.html). I've since decided to not port Core Defense to consoles and focus on my next games for now – this time using Godot to make sure I won't run into the same roadblocks again.
+Coming from a web development background I wanted to use JavaScript and optimistically assumed that it would be possible to package Core Defense for consoles as well. I did the actual research too late and only recently found out that while this is actually possible, [it's incredibly hard](/f/multi-platform-games-javascript.html). I've since decided to not port Core Defense to consoles and focus on my next games for now – this time using Godot to make sure I won't run into the same roadblocks again.
 
 Apart from the aforementioned [Thousand Lives](https://thousandlives.ehmprah.com/) I'm working on the spiritual successor of Core Defense, which is still unannounced but will follow the same successful recipe: a simple, high quality game which features an unusual combination of genres and sucks players in with a quick and dopamine-rushing core loop. If you're interested in this or any other stuff I make, be sure to follow me on [Twitter](https://twitter.com/ehmprah) for updates. Thank you for reading this, I hope my experiences prove useful to you!
 
