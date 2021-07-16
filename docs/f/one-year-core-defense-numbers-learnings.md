@@ -10,10 +10,10 @@ date: 2021-07-31
 
 It has been exactly one year since [Core Defense](https://coredefense.ehmprah.com/) was released on Steam and in this post I'll share with you both the hard numbers as well as the lessons I learned along the way.
 
-Before we get to the actual numbers, I'll give you a quick recap of the game's history, especially of the things I did after the release on Steam:
+Before we get to it, I'll give you a quick recap of the game's history so far, especially of the things I did after the release on Steam:
 
-- Core Defense was released as first access on itch.io six months prior to the release, where it sold 106 units and grossed $1,144
-- Core Defense was released on Steam on July 31, 2020 at a $9.99 price point, had 3632 wishlists before the launch, sold 2,546 units and grossed $20,186 in the first week on Steam
+- Core Defense was available as first access on itch.io six months prior to the release, where it sold 106 units and grossed $1,144
+- It was fully released on Steam on July 31, 2020 at a $9.99 price point, had 3632 wishlists before the launch, sold 2,546 units and grossed $20,186 in the first week on Steam
 - I've since built 25 patches (3 of which were big content updates)
 - Released the Mastery Expansion DLC on Steam on March 19, 2021 at a $4.99 price point
 - Released the iOS & Android versions of the game on April 21, 2021 with a freemium business model, unlocking the full game at a $4.99 price point, the expansion for $2.99 and a bundle for both priced at $6.99
@@ -24,14 +24,14 @@ Across all platforms Core Defense has grossed $XX.XXX in the past year. I will b
 
 ## Steam Breakdown
 
-- gross revenue: $65,637
-- reviews: 82% positive of 228 reviews
-- average daily users: 173
-- median time played: 3h 57m
-- wishlist conversion rate: 22.7%
-- outstanding wishes: 7013
-- DLC attach rate: 16%
-- return rate: 9.4%
+- gross revenue: **$65,637**
+- reviews: **82% positive of 228 reviews**
+- copies sold: **7500**
+- median time played: **3h 57m**
+- wishlist conversion rate: **22.7%**
+- outstanding wishes: **7013**
+- DLC attach rate: **16%**
+- return rate: **9.4%**
 
 I will let the numbers speak for themselves here – but I wanted to share a few words about the DLC: The Mastery Expansion adds a permanent progression to the game with skill points to spend on various bonuses and a few other things, but doesn't really add new content but horizontally scales what's already there.
 
@@ -39,27 +39,45 @@ I wanted to add that anyway but saw that as an opportunity to make an extra buck
 
 But even though I expected some backlash from players, especially due to the relatively aggressive $4.99 price point, I was surprised by just how mad this made some players. My reviews plunged from 86% to 81% within days of the DLC release and suddenly the recent review score showed "Very Negative" in deep red at the top of the store page. The baseline daily purchases dropped from 3-5 to zero, the still "Very Positive" score below notwithstanding. In the end I just had to wait a few weeks before those recent reviews vanished in the crowd but heck those were a few scary weeks.
 
+## Windows vs Mac and Linux
+
+As an avid Linux user, I always wonder why so few developers publish their games for operating systems other than Windows. Looking at the sales of Core Defense, it makes a little more sense: Mac and Linux account for only 8.5% of sales. In my case, packaging the game for these OS was virtually no extra effort, so it made sense – but if it's additional work, it may very well be not worth the effort.
+
+## Localization
+
+I think that localizing Core Defense was an important part of the game's success: about 50% of sales on Steam come from non-English speaking countries. But I'm really unhappy with the state and the quality of the translations. The [enthusiasm I previously shared](/f/how-make-successful-indie-game.html) has subsided over the past year for various reasons:
+
+- the quality of the crowdsourced translations is mostly sub-par
+- while there was a lot of momentum around the launch it quickly faded after a while, leaving me with half-finished translations as I introduced new content
+- I made quite a few mistakes in organizing the strings, leading to an unnecessary amount to translate, further reducing motivation for the translators
+- I didn't funnel translators through the Discord server to be able to reach them
+
+While the localizations helped me sell the game, they don't keep the promise they made in the game itself. I would surely have sold fewer copies of the game without them, but enough to make a professional translation worth it – I don't know. One of the two games I'm currently working on ([Thousand Lives](https://thousandlives.ehmprah.com/)) will be a narrative game that probably won't be localized and I can't wait to see (and share) the numbers in that case.
+
 ## Mobile ads and marketing
 
-Before I break down the numbers on the Play Store and App Store, I feel the need to explain: I have only recently begun marketing for the mobile versions because my monetization strategy involved rewarded ads via AdMob, which did not work at all as I expected, leading me to postpone marketing again and again.
+Before I break down the numbers for iOS and Android, I feel the need to explain: I have only recently begun marketing for the mobile versions because my monetization strategy involved rewarded ads via AdMob, which did not work at all as I expected, leading me to postpone marketing again and again.
 
-I wanted the ads to work before I start the marketing – but in the end I was so frustrated with the whole shebang I discarded them and replaced them with a consumable currency, which players can now spend instead of watching a rewarded ad.
+I wanted the ads to work before I start the marketing – but in the end I was so frustrated with the whole shebang I discarded them and replaced them with a consumable currency, which players can now buy and spend instead of watching a rewarded ad.
 
-Since the game is based on JavaScript and relies on Capacitor for the mobile versions, AdMob was pretty much my only option because I didn't want to write the native plugins the ecosystem didn't offer. But
+Since the game made with JavaScript and relies on Capacitor for the mobile versions, AdMob was pretty much my only option because I didn't want to write other native plugins the ecosystem didn't offer. I had heard this network might not be the best choice, but that turned out to be quite the overstatement. The implementation was easy enough, but as soon as the game was released, the troubles started:
 
-ad serving limits
-ios ads started working in fact
+- ad serving limits were placed on the account left and right, leading thousands of ad requests into the void
+- ads on iOS were not working until two weeks after I "connected" the App Store listing to the AdMob account and it took almost two months after the release (!) for the listing to even appear in the AdMob interface to connect
+- to this day I have not been able to reach AdMob support because the contact form displays generic errors
+
+I am aware that these may have been problems with this particular network or even a faulty implementation on my end – but this whole ordeal felt so incredibly frustrating  and inefficient that I'm pretty sure I won't use ads for monetizing my games again. Quite honestly that's fine because I hate ads anyway, I just wish I'd have been spared the trouble.
 
 ## Rating prompt
 
+Coming from the world of steampowered games I underestimated the power of the rating prompt on mobile, postponing it until I was unsatisfied with the amount and the average rating. I was surprised to see how quickly both went up as soon as I placed a native rating prompt after winning a run in one of the recent updates – which in turn seems to please the Play and App Store's algorithms. Downloads and sales are clearly trending upwards since, but this is yet another reason why the mobile versions had a bit of a slow start and the numbers are not conclusive yet.
 
 ## iOS Breakdown
 
-- gross revenue: $3,740
-- rating: 4.4 across 85 ratings
-- downloads: 15,400
-
-
+- gross revenue: **$3,740**
+- rating: **4.4 across 85 ratings**
+- downloads: **15,400**
+- admob: €2.41
 
 the whole review madness! but got a small feature out of it (link to form!)
 
@@ -69,25 +87,9 @@ the whole review madness! but got a small feature out of it (link to form!)
 - rating: 4.0 across 58 ratings
 - downloads: 3,117
 - sales (+ admob revenue)
-- Admob $201.55 for 19.578 requests
+- Admob €168.40 for 19.578 requests
 
-
-
-
-## Windows vs Mac and Linux
-
-As an avid Linux user, I always wonder why so few developers publish their games for operating systems other than Windows. Looking at the sales of Core Defense, it makes a little more sense: Mac and Linux account for only 8.5% of sales. In my case, packaging the game for these OS was virtually no extra effort, so it made sense – but if it's additional work, it may very well be not worth the effort.
-
-## Localization
-
-I think that localizing Core Defense was an important part of the game's success: about 50% of sales come from non-English speaking countries. But I'm really unhappy with the state and the quality of the translations. The [enthusiasm I previously shared](/f/how-make-successful-indie-game.html) has subsided over the past year for various reasons:
-
-- the quality of the crowdsourced translations is mostly sub-par
-- while there was a lot of momentum around the launch it quickly faded after a while, leaving me with half-finished translations as I introduced new content
-- I made quite a few mistakes in organizing the strings, leading to an unnecessary amount to translate, further reducing motivation for the translators
-- I didn't funnel translators through the Discord server to be able to reach them
-
-While the localizations helped me sell the game, they don't keep the promise they made in the game itself. I would surely have sold fewer copies of the game without them, but enough to make a professional translation worth it – I don't know. One of the two games I'm currently working on ([Thousand Lives](https://thousandlives.ehmprah.com/)) will be a narrative game that probably won't be localized and I can't wait to see (and share) the numbers in that case.
+I don't have much to add to the numbers here – I had comparatively little trouble with Android. But it's just not been enough time and data to come up with any conclusions yet.
 
 ## What's next
 
