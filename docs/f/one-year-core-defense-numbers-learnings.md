@@ -33,7 +33,7 @@ Across all platforms Core Defense has grossed **$72,916** in the past year. I wi
 - DLC attach rate: **17.7%**
 - return rate: **9.4%**
 
-I will let the numbers speak for themselves here – but I wanted to share a few words about the DLC: The Mastery Expansion adds a permanent progression to the game with skill points to spend on various bonuses and a few other things, but doesn't really add new content but horizontally scales what's already there.
+Since I've [previously written](/f/how-make-successful-indie-game.html) about why the game sells on Steam, I will let the numbers speak for themselves here – but I wanted to share a few words about the DLC: The Mastery Expansion adds a permanent progression to the game with skill points to spend on various bonuses and a few other things, but doesn't really add new content but horizontally scales what's already there.
 
 I wanted to add that anyway but saw that as an opportunity to make an extra buck, especially as I opted for a "high" price paired with regular sales strategy. I thought that a DLC would increase my earnings as people buy the game on sale but because they might be buying the bundle, the DLC compensates for the sale – and this works surprisingly well: At least 50% of the more recent sales have been bundle sales.
 
