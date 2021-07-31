@@ -4,7 +4,7 @@ title: 'One year of Core Defense – numbers and learnings'
 htmlTitle: 'One year of Core Defense – numbers and learnings'
 author: Mario Kaiser
 tags: ['Tech', 'Gaming']
-published: false
+published: true
 date: 2021-07-31
 ---
 
@@ -20,17 +20,17 @@ Before we get to it, I'll give you a quick recap of the game's history so far, e
 
 ## Grand total
 
-Across all platforms Core Defense has grossed $XX.XXX in the past year. I will break down this grand total per platform below.
+Across all platforms Core Defense has grossed **$72,916** in the past year. I will break down this grand total per platform below.
 
 ## Steam Breakdown
 
-- gross revenue: **$65,637**
+- gross revenue: **$67,404**
 - reviews: **82% positive of 228 reviews**
-- copies sold: **7500**
-- median time played: **3h 57m**
-- wishlist conversion rate: **22.7%**
-- outstanding wishes: **7013**
-- DLC attach rate: **16%**
+- copies sold: **7,872**
+- median time played: **3h 53m**
+- wishlist conversion rate: **23.9%**
+- outstanding wishes: **6,896**
+- DLC attach rate: **17.7%**
 - return rate: **9.4%**
 
 I will let the numbers speak for themselves here – but I wanted to share a few words about the DLC: The Mastery Expansion adds a permanent progression to the game with skill points to spend on various bonuses and a few other things, but doesn't really add new content but horizontally scales what's already there.
@@ -74,22 +74,19 @@ Coming from the world of steampowered games I underestimated the power of the ra
 
 ## iOS Breakdown
 
-- gross revenue: **$3,740**
-- rating: **4.4 across 85 ratings**
-- downloads: **15,400**
-- admob: €2.41
+- gross revenue: **$4,154**
+- rating: **4.5 across 105 ratings**
+- downloads: **16,6k**
 
-the whole review madness! but got a small feature out of it (link to form!)
+Despite the lack of marketing, the iOS version has been doing surprisingly well – which does feel kind of right when taking into account how arduous a process it was to get the game past the App Store review team. I spent two weeks of my life trying to debug and fix an issue which ultimately was clearly on Apple's side of things: because in app purchases are separately reviewed there, sometimes IAP connected to a rejected version of the app can get stuck in an erroneous state where they cannot be purchased anymore, after which every review attempt will be rejected because the IAP don't work. In the end I contacted an Apple employee whose email address I found on various forum threads about that issue; after I poked around the void for two weeks, he solved the problem within a few hours.
 
 ## Android Breakdown
 
-- gross revenue: $917
-- rating: 4.0 across 58 ratings
-- downloads: 3,117
-- sales (+ admob revenue)
-- Admob €168.40 for 19.578 requests
+- gross revenue: **$1,358**
+- rating: **4.0 across 80 ratings**
+- downloads: **4.4k**
 
-I don't have much to add to the numbers here – I had comparatively little trouble with Android. But it's just not been enough time and data to come up with any conclusions yet.
+The numbers for Android aren't great – but then it's just not been enough time I think. Given that I didn't have to jump through any extra hoops for the Android version that feels fine though. We'll see where this is going in the next year!
 
 ## What's next
 
