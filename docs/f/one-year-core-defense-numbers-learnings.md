@@ -8,7 +8,7 @@ published: true
 date: 2021-07-31
 ---
 
-It has been exactly one year since [Core Defense](https://coredefense.ehmprah.com/) was released on Steam and in this post I'll share with you both the hard numbers as well as the lessons I learned along the way.
+It has been exactly one year since [Core Defense](https://coredefense.ehmprah.com/) was released on Steam and in this post I'll share with you both the hard numbers as well as the lessons I learned along the way. If you haven't read it already, I can also recommend my [previous post with lessons learned](/f/how-make-successful-indie-game.html).
 
 Before we get to it, I'll give you a quick recap of the game's history so far, especially of the things I did after the release on Steam:
 
