@@ -25,7 +25,7 @@ Across all platforms Core Defense has grossed **$72,916** in the past year. I wi
 ## Steam Breakdown
 
 - gross revenue: **$67,404**
-- reviews: **82% positive of 228 reviews**
+- reviews: **81% positive of 236 reviews**
 - copies sold: **7,872**
 - median time played: **3h 53m**
 - wishlist conversion rate: **23.9%**
