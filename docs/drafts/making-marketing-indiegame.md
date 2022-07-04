@@ -53,29 +53,32 @@ I wanted to replicate that success but unfortunately changed some things for the
 - The demo performed worse than Core Defense's prologue because it was released with much less polish
 - Two months before the release I still sat at 1k wishlists, panicked and did make a prologue after all, which didn't do anything for the game
 
-Even though I used exactly the same tools, the order made a huge difference. I would still go for a demo first, but probably skip the itch.io EA and use a prologue released in EA on Steam.
+Even though I used exactly the same tools, the order made a huge difference. I would still go for a demo first, but probably skip the itch.io EA and use a prologue released in EA on Steam. Furthermore I'd continue sharing early progress on socials, but do the announcement and Steam page at a later point in development. I don't think an early, unpolished version on Steam will hurt your wishlists, but it sure is a lot of work updating it as your game progresses. The amount of time I spent on trailers, screenshots and GIFs for Blacken Slash was **too damn high**.
 
 ## Marketing
 
 Core Defense was successful enough for me to make another game – but not successful enough to pay for much marketing. Here's a list of things I did and what I learned:
 
-- **Discord**<br>With Core Defense I built a cool community on Discord and expected to be able to convert them to Blacken Slash easily. Turns out a Discord server is not a reliable way of reaching your fans: when they're "done" with the game most people will either leave or mute the server.
-- **Mailing List**<br>After realizing I had no way of contacting most of my previous fans, I added a newsletter subscription to the end of the demo, incentivised with the promise of a special subscriber item they get upon launch. It's a shame I only started doing this on my THIRD game.
-- **Twitter**<br>The social I'm using most successfully with hashtags like #ScreenshotSaturday, #PitchYaGame and #TurnBasedThursday. Also: the game's sound designer actually [approached me via Twitter](https://twitter.com/ehmprah/status/1429038571147735050), the game's name was [decided on Twitter](https://twitter.com/ehmprah/status/1433032768146051079), and [recruited content creators for a pre-alpha](https://twitter.com/ehmprah/status/1466789369679908868)
-- #TurnBasedThursday:
-- Forum posts:
-- Reddit:
-- 9GAG:
-- TikTok:
-- Key Art
-- Paid Trailer
-- Terminals Launch Package
+- **Store Page**<br>Apart from the product itself, the store page is *the* most valuable marketing tool you have. Make sure it's as good as can be. I've spent *weeks* perfecting the copy and assets.
+- **Discord**<br>With Core Defense I built a cool community on Discord and expected to be able to convert them to Blacken Slash easily. Turns out a Discord server is not a reliable way of reaching your fans: when they're "done" with the game most people will either leave or mute the server. You should definitely have a Discord server, just not as your *only* point of contact with your fans.
+- **Mailing List**<br>After realizing I had no way of contacting most of my previous fans, I added a newsletter subscription to the end of the demo, incentivised with the promise of a special subscriber item they get upon launch. A very powerful tool which I should have started using *much* earlier!
+- **Steam Next Fest**<br>The Next Fest was the main reason I opted for a demo instead of a prologue but I've been disappointed. I did two livestreams and only gained around a 100 wishlists during the Next Fest. Instead of the February iteration I should have gone for the June one to showcase a more polished version but I think even then the results would probably have been underwhelming. I think the Next Fest is more valuable the more traction you have before it.
+- **Gameround.co**<br>I applied for a free spot on [Gameround.co](https://gameround.co/detail/230/info) to get feedback on the game's demo. I got a lot of value out of this and would even recommend paying for it if you have trouble finding people for playtesting.
+- **Web Demo**<br>I created a browser-based demo of the game and published that to [ArmorGames](https://armorgames.com/blacken-slash-demo-game/19246). Got featured on the front page and got quite a few eyeballs and some useful feedback there.
+- **Twitter**<br>The social I'm using most successfully with hashtags like #ScreenshotSaturday, #PitchYaGame and #TurnBasedThursday. Also: the game's brilliant sound designer actually [approached me via Twitter](https://twitter.com/ehmprah/status/1429038571147735050), the game's name was [decided on Twitter](https://twitter.com/ehmprah/status/1433032768146051079) and I successfully[recruited content creators for a pre-alpha](https://twitter.com/ehmprah/status/1466789369679908868). Twitter rocks for gamedevs!
+- **Reddit**<br>I posted about the game on various subreddits to some success. Hard to nail but an invaluable asset in the marketing on a budget arsenal.
+- **9GAG**<br>Even harder to pull off than Reddit in my opinion, but worth trying nonetheless. The community is brutal, but every little bit helps, right?
+- **IndieDB**<br>I keep posting about my games there but I have yet to see any meaningful return on investment. Sending traffic to IndieDB to climb the charts is probably how that would work, but I feel wary of directing my hard earned traffic there instead of my store page.
+- **Forums**<br>I posted about the game on various forums. Most marketing feels like screaming into the void, this one does especially. Won't do this again for my next game.
+- **TikTok**<br>Everyone's talking about it, but I found it hard to make anything that works on this platform. If you're not actually using a network, it's hard to nail the content. But then which solo indie gamedev has time to be properly active on multiple social networks?
+- **PR Basics**<br>I write press releases and publish them via [gamespress.com](https://www.gamespress.com/Blacken-Slash#?tab=Press-releases-0). I sent PR beats and keys to my self-collected mailing list of about 300 press and 300 influencer contacts. Not a lot of buck but also not a lot of bang.
+- **Handpicked Creators**<br>I spent days researching content creators (via the free versions of [Woovit](https://woovit.com/) and [Lurkit](lurkit.com)) who are a perfect fit for the game and sent them keys one by one via mail and Twitter. I also tried to get in touch with creators who played my previous games. TODO: DID THAT WORK?
+- **Box Art**<br>I hired an artist to create some cool box art for the game for 500 bucks. Would definitely do that again but I'd probably try to find someone cheaper.
+- **Professional Trailer**<br>I hired a professional trailer editor for 1000 bucks. TODO: DID THAT WORK?
+- **Terminals.io Launch Package**<br>I got the Launch Package for 2000 bucks for the release. TODO: DID THAT WORK?
 
-- **Gameround.co**<br>I applied for a free spot on [Gameround.co](https://gameround.co/detail/230/info) to get feedback on the game's demo
-- **Web Demo**<br>I applied for a free spot on [Gameround.co](https://gameround.co/detail/230/info) to get feedback on the game's demo
-https://armorgames.com/blacken-slash-demo-game/19246
-https://www.newgrounds.com/portal/view/839546
+## What's next?
 
+I'm currently working on my next two games at the moment with two of my best friends – both of whom have worked on all three of my games. Blacken Slash was the last of my (mostly) solo endeavours. For hopyfully many years to come my buddies and I will be creating games as SONDERLAND.
 
-TODO: replace that!
-<img src="https://vg09.met.vgwort.de/na/2f2dd17160214d0c884d613f3d2251e7" width="1" height="1" alt="">
+<img src="https://vg09.met.vgwort.de/na/ea3f8bbe98f7414f9ad6f26d510f06c1" width="1" height="1" alt="">
