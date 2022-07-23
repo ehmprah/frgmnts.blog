@@ -15,11 +15,11 @@ Yesterday my third, mostly solo developed indie game Blacken Slash was released 
 
 ## Sales
 
-Blacken Slash had the Steam page up since 10/2021 and accumulated 1552 wishlists until the release. Core Defense had more than [twice the wishlists before launch](https://frgmnts.blog/f/core-defense-launch-numbers.html); I think the reason for that is my botched release strategy but more on that below. In the first 24 hours on sale Blacken Slash grossed:
+Blacken Slash had the Steam page up since 10/2021 and accumulated 1552 wishlists until the release. Core Defense had more than [twice the wishlists before launch](https://frgmnts.blog/f/core-defense-launch-numbers.html); I think the reason for that is my botched release strategy but more on that below. In the first 24 hours on sale Blacken Slash grossed $1,116:
 
-- **Steam**: $488 from 114 copies (of which 78% were wishlist conversions)
-- **App Store**: $565 from 107 copies (of which 39% were pre-orders)
-- **Play Store**: $XX from XX copies
+- **Steam**: $488 from 114 copies (78% were wishlist conversions)
+- **App Store**: $565 from 107 copies (39% were pre-orders)
+- **Play Store**: $63 from 14 copies
 
 To be perfectly honest I'm not blown away by the results. But then the strategy for this one was focused on the long tail anyway: Deliver high quality at a low price to gain good reviews to please the allmighty algorithm. And the numbers are good enough for me to stay a full-time indie for a while I guess – and that was the whole point of this exercise.
 
@@ -96,7 +96,8 @@ Core Defense was successful enough for me to make another game – but not succe
 - **PR Basics**<br>I write press releases and publish them via [gamespress.com](https://www.gamespress.com/Blacken-Slash#?tab=Press-releases-0). I sent PR beats and keys to my little mailing list of about 300 press and 300 influencer contacts. Not a lot of buck but also not a lot of bang.
 - **Handpicked Creators**<br>I spent days researching content creators (via the free versions of [Woovit](https://woovit.com/) and [Lurkit](lurkit.com)) who are a perfect fit for the game and sent them keys one by one via mail and Twitter. I also tried to get in touch with creators who played my previous games. I'm very surprised that this didn't lead to any substantial coverage, especially as I got [Retromation](https://www.youtube.com/watch?v=cNz7Mc1ekJc) and [Olexa](https://youtu.be/h4lbmour2Lo?t=1651) to cover the alpha demo earlier this year.
 - **Asking for features**<br>I asked/applied for features on Steam, Play and App Store. It worked for the App Store! They gave me a big feature this time around, without which the sales probably would look at lot worse. Having a 4.7 rating for Core Defense as proof of my ability to deliver high quality (which Apple loves) probably helped getting me selected here.
-- **Box Art**<br>I hired an artist to create box art for the game for ~$500. Totally worth it, would definitely do that again.
+- **Bundle**<br>I reached out to some fellow indies with similar games for a [joint bundle](https://store.steampowered.com/bundle/26946/Tiny_Team_Tactical_RPGs/). Not enough data yet on this but I think [Chris Zukowski is right](https://howtomarketagame.com/2022/05/16/other-indie-developers-are-not-your-competition/) in seeing the potential here!
+- **Box Art**<br>I hired an artist to create some key art for the game for ~$500. Totally worth it, would definitely do that again.
 - **Professional Trailer**<br>I hired a professional trailer editor for ~$1000. Would definitely do that again, too. As a designer and engineer my trailers are always just stuffed with features, the one [Gary](https://twitter.com/GaryJKings) made tells a story instead and the difference is huge.
 - **Terminals.io Launch Package**<br>I got the Launch Package for $2000 for the release. It's still going on so it's hard to assess at this point, but I already got some nice coverage out of it, so I'm optimistic. Unfortunately I didn't have more money to spend, but I'd have liked to see if another $2k in the hands of a popular streamer would have been more bang for my buck but hey, there's always a next game to try that out with.
 
