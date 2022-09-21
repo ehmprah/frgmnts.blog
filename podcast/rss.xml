@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <atom:link href="https://frgmnts.blog/podcast/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://frgmnts.blog</link>
+    <title>FRGMNTS: Bite Size Fiction</title>
+    <language>en</language>
+    <copyright>&#xA9;2019</copyright>
+    <webMaster>podcast@frgmnts.blog (Mario Kaiser)</webMaster>
+    <managingEditor>podcast@frgmnts.blog (Mario Kaiser)</managingEditor>
+    <image>
+      <url>https://frgmnts.blog/podcast/thumbnail.png</url>
+      <title>FRGMNTS</title>
+      <link>https://frgmnts.blog</link>
+    </image>
+    <googleplay:image href="https://frgmnts.blog/podcast/thumbnail.png"/>
+    <itunes:owner>
+      <itunes:name>Mario Kaiser</itunes:name>
+      <itunes:email>podcast@frgmnts.blog</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Fiction" />
+    <itunes:keywords>fiction, science fiction, short fiction, philosophy, death</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://frgmnts.blog/podcast/thumbnail.png" />
+    <itunes:author>Mario Kaiser</itunes:author>
+    <description>In this podcast, Mario "ehmprah" Kaiser reads his (very) short fiction for anyone who prefers casual listening over reading.</description>
+    <itunes:summary>In this podcast, Mario "ehmprah" Kaiser reads his (very) short fiction for anyone who prefers casual listening over reading.</itunes:summary>
+    <itunes:subtitle>(Very) short fiction by Mario "ehmprah" Kaiser</itunes:subtitle>
+    <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Lifestreaming</title>
+      <description>About streaming, everything.</description>
+      <enclosure url="https://frgmnts.blog/podcast/lifestreaming.mp3" type="audio/mpeg" length="1131389" />
+      <guid>https://frgmnts.blog/podcast/lifestreaming.mp3</guid>
+      <link>https://frgmnts.blog/f/lifestreaming.html</link>
+      <itunes:duration>01:22</itunes:duration>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drifting Off</title>
+      <description>About floating between worlds.</description>
+      <enclosure url="https://frgmnts.blog/podcast/drifting-off.mp3" type="audio/mpeg" length="1621644" />
+      <guid>https://frgmnts.blog/podcast/drifting-off.mp3</guid>
+      <link>https://frgmnts.blog/f/drifting-off.html</link>
+      <itunes:duration>02:02</itunes:duration>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Penny for Your Thoughts</title>
+      <description>About a lucky penny, presumably.</description>
+      <enclosure url="https://frgmnts.blog/podcast/a-penny-for-your-thoughts.mp3" type="audio/mpeg" length="3847471" />
+      <guid>https://frgmnts.blog/podcast/a-penny-for-your-thoughts.mp3</guid>
+      <link>https://frgmnts.blog/f/a-penny-for-your-thoughts.html</link>
+      <itunes:duration>01:21</itunes:duration>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Radiator Grille</title>
+      <description>About an accidental life saver.</description>
+      <enclosure url="https://frgmnts.blog/podcast/radiator-grille.mp3" type="audio/mpeg" length="3847471" />
+      <guid>https://frgmnts.blog/podcast/radiator-grille.mp3</guid>
+      <link>https://frgmnts.blog/f/radiator-grille.html</link>
+      <itunes:duration>04:44</itunes:duration>
+      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intro</title>
+      <description>A short intro for the podcast.</description>
+      <enclosure url="https://frgmnts.blog/podcast/intro.mp3" type="audio/mpeg" length="316641" />
+      <guid>https://frgmnts.blog/podcast/intro.mp3</guid>
+      <itunes:duration>00:23</itunes:duration>
+      <pubDate>Wed, 17 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
